@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "189509391470",
+    "firebase_url": "https://andu-f164b.firebaseio.com",
+    "project_id": "andu-f164b",
+    "storage_bucket": "andu-f164b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:189509391470:android:1a716a4b76cdf46986827f",
+        "android_client_info": {
+          "package_name": "com.example.andu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "189509391470-jt4k44154dia9nhlpm64ls3p4g3c1bl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD2DmYbgFdmoJjNRTLmGy1axiSRSgAdMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "189509391470-jt4k44154dia9nhlpm64ls3p4g3c1bl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
